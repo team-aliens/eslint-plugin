@@ -1,0 +1,39 @@
+{
+  "name": "eslint-plugin-aliens",
+  "version": "0.0.0",
+  "description": "aliens eslint style guide",
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "author": "05lazy <05lazy.dev@gmail.com> (https://github.com/05lazy)",
+  "main": "./lib/index.js",
+  "exports": "./lib/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "mocha tests --recursive",
+    "semantic-release": "semantic-release"
+  },
+  "dependencies": {
+    "requireindex": "^1.2.0"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "eslint": "^8.19.0",
+    "eslint-plugin-eslint-plugin": "^5.0.0",
+    "eslint-plugin-node": "^11.1.0",
+    "mocha": "^10.0.0",
+    "semantic-release": "^21.0.1"
+  },
+  "engines": {
+    "node": "^14.17.0 || ^16.0.0 || >= 18.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=7",
+    "eslint-config-airbnb-base": ">=15",
+    "eslint-plugin-import": ">=2"
+  },
+  "license": "ISC",
+  "packageManager": "yarn@3.5.0"
+}

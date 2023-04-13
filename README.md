@@ -19,7 +19,7 @@ npm install eslint-plugin-aliens --save-dev
 Next, install `peerDependencies`:
 
 ```sh
-npm install npm info eslint-plugin-aliens peerDependencies --save-dev
+npm info eslint-plugin-aliens peerDependencies
 ```
 
 ## Usage

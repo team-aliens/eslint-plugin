@@ -1,3 +1,5 @@
+## [1.0.2](https://github.com/team-aliens/eslint-plugin/compare/v1.0.1...v1.0.2) (2023-04-13)
+
 ## [1.0.1](https://github.com/team-aliens/eslint-plugin/compare/v1.0.0...v1.0.1) (2023-04-13)
 
 # 1.0.0 (2023-04-13)

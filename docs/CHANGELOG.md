@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/team-aliens/eslint-plugin/compare/v1.0.5...v1.0.6) (2023-04-13)
+
+
+### Bug Fixes
+
+* lint 설정 수정 ([22bcc9e](https://github.com/team-aliens/eslint-plugin/commit/22bcc9e6b8627c1e191c5fde8847beec43fe0719))
+
 ## [1.0.5](https://github.com/team-aliens/eslint-plugin/compare/v1.0.4...v1.0.5) (2023-04-13)
 
 

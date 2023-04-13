@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/team-aliens/eslint-plugin/compare/v1.0.7...v1.0.8) (2023-04-13)
+
+
+### Bug Fixes
+
+* path resolve ([48c4e1f](https://github.com/team-aliens/eslint-plugin/commit/48c4e1fe5b594e2781be9b66e5df6eed21a9daa7))
+
 ## [1.0.7](https://github.com/team-aliens/eslint-plugin/compare/v1.0.6...v1.0.7) (2023-04-13)
 
 ## [1.0.6](https://github.com/team-aliens/eslint-plugin/compare/v1.0.5...v1.0.6) (2023-04-13)

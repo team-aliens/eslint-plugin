@@ -16,6 +16,12 @@ Next, install `eslint-plugin-aliens`:
 npm install eslint-plugin-aliens --save-dev
 ```
 
+Next, install `peerDependencies`:
+
+```sh
+npm install npm info eslint-plugin-aliens peerDependencies --save-dev
+```
+
 ## Usage
 
 Add `aliens` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
@@ -36,6 +42,18 @@ Then configure the rules you want to use under the rules section.
     "rules": {
         "aliens/rule-name": 2
     }
+}
+```
+
+### recommended
+```json
+{
+  "root": true,
+  "plugins": ["aliens"],
+  "extends": ["eslint:recommended", "plugin:alines/recommended"],
+  "env": {
+    "es6": true
+  }
 }
 ```
 

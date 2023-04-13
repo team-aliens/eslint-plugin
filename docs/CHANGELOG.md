@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/team-aliens/eslint-plugin/compare/v1.0.3...v1.0.4) (2023-04-13)
+
+
+### Bug Fixes
+
+* legeno에서 aliens로 변경... ([09c9ef5](https://github.com/team-aliens/eslint-plugin/commit/09c9ef520e65f7d4282d66c40abed05e0de7f82a))
+
 ## [1.0.3](https://github.com/team-aliens/eslint-plugin/compare/v1.0.2...v1.0.3) (2023-04-13)
 
 ## [1.0.2](https://github.com/team-aliens/eslint-plugin/compare/v1.0.1...v1.0.2) (2023-04-13)

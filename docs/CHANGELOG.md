@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/team-aliens/eslint-plugin/compare/v1.0.4...v1.0.5) (2023-04-13)
+
+
+### Bug Fixes
+
+* base도 legeno에서 aliens로 변경 ([37da47a](https://github.com/team-aliens/eslint-plugin/commit/37da47a6d060d4a8b2328bb903609694027925c1))
+
 ## [1.0.4](https://github.com/team-aliens/eslint-plugin/compare/v1.0.3...v1.0.4) (2023-04-13)
 
 

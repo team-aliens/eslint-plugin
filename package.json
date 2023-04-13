@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-aliens",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "aliens eslint style guide",
   "keywords": [
     "eslint",
@@ -9,6 +9,9 @@
   "author": "05lazy <05lazy.dev@gmail.com> (https://github.com/05lazy)",
   "main": "./lib/index.js",
   "exports": "./lib/index.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "lint": "eslint .",
     "test": "mocha tests --recursive",

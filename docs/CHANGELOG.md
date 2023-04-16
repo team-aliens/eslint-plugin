@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/team-aliens/eslint-plugin/compare/v1.0.8...v1.0.9) (2023-04-16)
+
+
+### Bug Fixes
+
+* eslint js 관련 rules setting ([b5deb12](https://github.com/team-aliens/eslint-plugin/commit/b5deb123a73ec944fe29af4e4294b543b342dfe1))
+
 ## [1.0.8](https://github.com/team-aliens/eslint-plugin/compare/v1.0.7...v1.0.8) (2023-04-13)
 
 

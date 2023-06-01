@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/team-aliens/eslint-plugin/compare/v1.0.12...v1.0.13) (2023-06-01)
+
+
+### Bug Fixes
+
+* 배포 테스트 ([8e30d69](https://github.com/team-aliens/eslint-plugin/commit/8e30d691ba3956b55c5d0bf0ae4518038a96fd30))
+
 ## [1.0.12](https://github.com/team-aliens/eslint-plugin/compare/v1.0.11...v1.0.12) (2023-06-01)
 
 
